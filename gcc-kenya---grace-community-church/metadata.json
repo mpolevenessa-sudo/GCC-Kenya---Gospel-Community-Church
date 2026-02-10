@@ -1,0 +1,5 @@
+{
+  "name": "GCC Kenya - Grace Community Church",
+  "description": "A modern web application for Grace Community Church Kenya, featuring sermon archives, ministry details, and 'Grace Guide'—an AI assistant powered by Gemini for church-related inquiries.",
+  "requestFramePermissions": []
+}
